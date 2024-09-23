@@ -12,8 +12,3 @@ Mac users: ```conda env create -f DataAnalyticsEnvMacOS.yml```
 
 ## Activate the enviorment
 Windows users: ```conda activate DataAnalytics```
-
-## Note
-You are not allowed to add any additional packages to the environment.
-Please ask on the moodle discussion forum if you need any additional packages.
-You have to make do with the packages provided in the environment.
